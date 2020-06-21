@@ -1,0 +1,24 @@
+.disabled {
+    background-color: red;
+}
+
+.button-styles {
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+}
+
+label {
+    font-size: 30px;
+}
+
+#task-name {
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+}
+
+#container {
+    /* border: 1px solid red; */
+    font-size: 30px;
+}
